@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ranaApp/static/css/main.26900885.chunk.css",
+    "main.js": "/ranaApp/static/js/main.6776f5c4.chunk.js",
+    "main.js.map": "/ranaApp/static/js/main.6776f5c4.chunk.js.map",
+    "runtime-main.js": "/ranaApp/static/js/runtime-main.0cd7ab0d.js",
+    "runtime-main.js.map": "/ranaApp/static/js/runtime-main.0cd7ab0d.js.map",
+    "static/js/2.fa6b54b8.chunk.js": "/ranaApp/static/js/2.fa6b54b8.chunk.js",
+    "static/js/2.fa6b54b8.chunk.js.map": "/ranaApp/static/js/2.fa6b54b8.chunk.js.map",
+    "index.html": "/ranaApp/index.html",
+    "static/css/main.26900885.chunk.css.map": "/ranaApp/static/css/main.26900885.chunk.css.map",
+    "static/js/2.fa6b54b8.chunk.js.LICENSE.txt": "/ranaApp/static/js/2.fa6b54b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd7ab0d.js",
+    "static/js/2.fa6b54b8.chunk.js",
+    "static/css/main.26900885.chunk.css",
+    "static/js/main.6776f5c4.chunk.js"
+  ]
+}
